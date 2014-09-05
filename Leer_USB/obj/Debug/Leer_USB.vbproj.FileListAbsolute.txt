@@ -1,0 +1,10 @@
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\bin\Debug\Leer_USB.exe
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\bin\Debug\Leer_USB.pdb
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\bin\Debug\Leer_USB.xml
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\ResolveAssemblyReference.cache
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\WindowsApplication1.FrmPen.resources
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\WindowsApplication1.Resources.resources
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\Leer_USB.vbproj.GenerateResource.Cache
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\Leer_USB.exe
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\Leer_USB.xml
+C:\WHITE\GEEK\CAPTOR\net\Leer_USB\Leer_USB\obj\Debug\Leer_USB.pdb
