@@ -53,7 +53,7 @@ Partial Class FrmPen
         'ButtonPen
         '
         Me.ButtonPen.Image = Global.WindowsApplication1.My.Resources.Resources.PEN
-        Me.ButtonPen.Location = New System.Drawing.Point(39, 71)
+        Me.ButtonPen.Location = New System.Drawing.Point(39, 185)
         Me.ButtonPen.Name = "ButtonPen"
         Me.ButtonPen.Size = New System.Drawing.Size(75, 55)
         Me.ButtonPen.TabIndex = 2
