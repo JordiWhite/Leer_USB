@@ -39,7 +39,7 @@ Partial Class FrmPen
         '
         'ExitButton
         '
-        Me.ExitButton.Location = New System.Drawing.Point(148, 99)
+        Me.ExitButton.Location = New System.Drawing.Point(188, 199)
         Me.ExitButton.Name = "ExitButton"
         Me.ExitButton.Size = New System.Drawing.Size(60, 27)
         Me.ExitButton.TabIndex = 1

@@ -50,4 +50,20 @@ Public Class FrmPen
     Private Sub ExitButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ExitButton.Click
         End
     End Sub
+
+    Private Sub ButtonPen_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonPen.Click
+        Dim PenDataPath As String = NomUnitat(PensComboBox.Text) & PenDataFolder
+
+        If Directory.Exists(PenDataPath) Then
+            'MsgBox(PenDataPath & "\" & "utiles.xml")
+            'ruta = PenDataPath & "\" ' & "utiles.xml"
+        Else
+            MsgBox(PenDataPath & "   no existe")
+        End If
+    End Sub
+    Private Function NomUnitat(ByVal texte As String) As String
+        Dim startUnit As Integer = texte.Length - 4
+        Dim nomUnit As String = texte.Substring(startUnit, 3)
+        Return nomUnit
+    End Function
 End Class
