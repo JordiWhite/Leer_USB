@@ -60,6 +60,13 @@ Namespace My.Resources
             End Set
         End Property
         
+        Friend ReadOnly Property Fons_Formulari_Lotes() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Fons_Formulari_Lotes", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
         Friend ReadOnly Property PEN() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("PEN", resourceCulture)
